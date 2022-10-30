@@ -1,0 +1,1 @@
+- How to communicate effectively as a developer - [https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
