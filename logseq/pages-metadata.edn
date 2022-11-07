@@ -1,6 +1,6 @@
 [{:block/name "[autopilot - tự động hoá và chúng ta",
   :block/created-at 1667123284884,
-  :block/updated-at 1667123284884}
+  :block/updated-at 1667125466584}
  {:block/name "a",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -40,6 +40,27 @@
  {:block/name "later",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "lồng kính - nicholas carr",
+  :block/created-at 1667125466581,
+  :block/updated-at 1667125511439}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667303992668,
+  :block/updated-at 1667844622544}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667388682055,
+  :block/updated-at 1667389537852}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667476132797,
+  :block/updated-at 1667477141209}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667502704654,
+  :block/updated-at 1667502796686}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667668628010,
+  :block/updated-at 1667668628010}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667844011557,
+  :block/updated-at 1667844468417}
  {:block/name "now",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -48,10 +69,16 @@
   :block/updated-at 1667122974607}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667122828713,
-  :block/updated-at 1667124428065}
+  :block/updated-at 1667844684390}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667158671841,
+  :block/updated-at 1667158671841}
  {:block/name "todo",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "tự mãn tự động hoá",
+  :block/created-at 1667304021609,
+  :block/updated-at 1667304021609}
  {:block/name "wait",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
