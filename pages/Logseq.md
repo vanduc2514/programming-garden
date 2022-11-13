@@ -15,6 +15,6 @@
 		- Syntax for adding tags of a specific pages, this is page specific
 		- Clicking to the tags will point to a page contains page with tags section
 - Must have Plugins
+	- 10 must have plugins
+		- Source: https://hub.logseq.com/use-cases/1Sr4awszMQzD4GM5KvWim7/10-must-have-plugins-for-logseq/jgDG2ZVkeZGSQHXUNkWroo
 	- Live Git Synching with git
-		- 10 must have plugins
-		-
