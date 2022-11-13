@@ -22,9 +22,6 @@
  {:block/name "card",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "contents",
-  :block/created-at 1668347227567,
-  :block/updated-at 1668347227567}
  {:block/name "developer communication",
   :block/created-at 1668337712624,
   :block/updated-at 1668340898283}
@@ -40,9 +37,6 @@
  {:block/name "done",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "favorites",
-  :block/created-at 1668347227567,
-  :block/updated-at 1668347227567}
  {:block/name "hiệu ứng thoái hóa",
   :block/created-at 1668341152044,
   :block/updated-at 1668344470193}
