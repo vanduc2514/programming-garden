@@ -14,3 +14,7 @@
 	- > `tags:: tag, another tag`
 		- Syntax for adding tags of a specific pages, this is page specific
 		- Clicking to the tags will point to a page contains page with tags section
+- Must have Plugins
+	- Live Git Synching with git
+		- 10 must have plugins
+		-
