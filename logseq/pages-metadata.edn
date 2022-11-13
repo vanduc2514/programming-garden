@@ -22,15 +22,12 @@
  {:block/name "card",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "contents",
-  :block/created-at 1668346280816,
-  :block/updated-at 1668346280816}
  {:block/name "developer communication",
   :block/created-at 1668337712624,
   :block/updated-at 1668340898283}
  {:block/name "development style",
   :block/created-at 1668343537713,
-  :block/updated-at 1668345106334}
+  :block/updated-at 1668347066668}
  {:block/name "devstyle",
   :block/created-at 1668344002895,
   :block/updated-at 1668344002895}
@@ -40,12 +37,12 @@
  {:block/name "done",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "favorites",
-  :block/created-at 1668346280816,
-  :block/updated-at 1668346280816}
  {:block/name "hiệu ứng thoái hóa",
   :block/created-at 1668341152044,
   :block/updated-at 1668344470193}
+ {:block/name "ideas",
+  :block/created-at 1668347019497,
+  :block/updated-at 1668347019497}
  {:block/name "in-progress",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -55,9 +52,6 @@
  {:block/name "later",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "life style",
-  :block/created-at 1668346293701,
-  :block/updated-at 1668346293701}
  {:block/name "logseq",
   :block/created-at 1668339857876,
   :block/updated-at 1668346602668}
@@ -69,13 +63,13 @@
   :block/updated-at 1668344749569}
  {:block/name "nov 13th, 2022",
   :block/created-at 1668336171302,
-  :block/updated-at 1668346265052}
+  :block/updated-at 1668346952336}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667303992668,
   :block/updated-at 1668341232162}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667388682055,
-  :block/updated-at 1668341400320}
+  :block/updated-at 1668347019497}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667476132797,
   :block/updated-at 1668343254391}
