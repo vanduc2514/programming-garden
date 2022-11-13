@@ -1,9 +1,12 @@
-[{:block/name "[autopilot - tự động hoá và chúng ta",
-  :block/created-at 1667123284884,
-  :block/updated-at 1667125466584}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "autopilot",
+  :block/created-at 1668337190181,
+  :block/updated-at 1668344465636}
+ {:block/name "autopilot - tự động hoá và chúng ta",
+  :block/created-at 1668337796070,
+  :block/updated-at 1668337796070}
  {:block/name "b",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -23,8 +26,11 @@
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
  {:block/name "developer communication",
-  :block/created-at 1667060476587,
-  :block/updated-at 1667122989472}
+  :block/created-at 1668337712624,
+  :block/updated-at 1668340898283}
+ {:block/name "devstyle",
+  :block/created-at 1668344002895,
+  :block/updated-at 1668344002895}
  {:block/name "doing",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -34,60 +40,78 @@
  {:block/name "favorites",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "hiệu ứng thoái hóa",
+  :block/created-at 1668341152044,
+  :block/updated-at 1668344470193}
+ {:block/name "how to communicate effectively as a developer",
+  :block/created-at 1668337038570,
+  :block/updated-at 1668337038570}
+ {:block/name "ideas",
+  :block/created-at 1668341400319,
+  :block/updated-at 1668341400319}
  {:block/name "in-progress",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "jmeter influx plugin",
+  :block/created-at 1668343331994,
+  :block/updated-at 1668343331994}
  {:block/name "later",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "logseq",
+  :block/created-at 1668339857876,
+  :block/updated-at 1668344577808}
  {:block/name "lồng kính - nicholas carr",
   :block/created-at 1667125466581,
-  :block/updated-at 1667125511439}
+  :block/updated-at 1668344943753}
+ {:block/name "minimalist software engineer",
+  :block/created-at 1668343537713,
+  :block/updated-at 1668344818430}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668081369773,
-  :block/updated-at 1668082128099}
+  :block/updated-at 1668341086225}
  {:block/name "nov 11th, 2022",
   :block/created-at 1668166449454,
-  :block/updated-at 1668167395006}
+  :block/updated-at 1668344749569}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668336171302,
+  :block/updated-at 1668343617568}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667303992668,
-  :block/updated-at 1667844622544}
+  :block/updated-at 1668341232162}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667388682055,
-  :block/updated-at 1667389537852}
+  :block/updated-at 1668341400320}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667476132797,
-  :block/updated-at 1667477141209}
+  :block/updated-at 1668343254391}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667502704654,
-  :block/updated-at 1667502796686}
+  :block/updated-at 1668343331994}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667668628010,
   :block/updated-at 1667668628010}
  {:block/name "nov 8th, 2022",
   :block/created-at 1667844011557,
-  :block/updated-at 1667844468417}
+  :block/updated-at 1668344304186}
  {:block/name "now",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
  {:block/name "oct 29th, 2022",
   :block/created-at 1667059225521,
-  :block/updated-at 1667122974607}
+  :block/updated-at 1668340919412}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667122828713,
-  :block/updated-at 1667844684390}
- {:block/name "oct 31st, 2022",
-  :block/created-at 1667158671841,
-  :block/updated-at 1667158671841}
- {:block/name "thế giới và màn hình - lồng kính",
-  :block/created-at 1668167395004,
-  :block/updated-at 1668167395004}
+  :block/updated-at 1668341053723}
+ {:block/name "thế giới và màn hình",
+  :block/created-at 1668344376929,
+  :block/updated-at 1668344646923}
  {:block/name "todo",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "tự mãn tự động hoá",
-  :block/created-at 1667304021609,
-  :block/updated-at 1667304021609}
+ {:block/name "tự động hóa và chúng ta",
+  :block/created-at 1668336258711,
+  :block/updated-at 1668344949959}
  {:block/name "wait",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}

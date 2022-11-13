@@ -1,0 +1,16 @@
+- Personal Developer workflow
+	- Example for taking and organize notes as a developer
+	  id:: 6370db60-dd06-4ace-850d-fda4ebf58c52
+		- Source: https://youtu.be/43PKm0TfyNk?t=777
+		- The block for `Journals` should be constructed with `TODO` at the top level (for tracking progress of the ongoing learning subject), followed by the `name of the page` (for knowledge management), and the `general topics` of what it is about
+	- Steps of workflow
+		- Start with the Journal page
+		- Use the ((6370db60-dd06-4ace-850d-fda4ebf58c52))
+		- Sync the notebook via git
+- Page links and tags
+	- Example of using pages and tags
+		- Source: https://aryansawhney.com/pages/page-links-vs-tags-in-logseq/
+	- Use `[[]]` for linking between pages
+	- > `tags:: tag, another tag`
+		- Syntax for adding tags of a specific pages, this is page specific
+		- Clicking to the tags will point to a page contains page with tags section
