@@ -1,3 +1,5 @@
+tags:: devstyle
+
 - Writing messages on Slack isn’t what engineers get paid for, though. Writing code to solve problems is.
 ### Short-form writing
 
