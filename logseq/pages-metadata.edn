@@ -3,13 +3,13 @@
   :block/updated-at 1667059778563}
  {:block/name "autopilot",
   :block/created-at 1668337190181,
-  :block/updated-at 1668344465636}
- {:block/name "autopilot - tự động hoá và chúng ta",
-  :block/created-at 1668337796070,
-  :block/updated-at 1668337796070}
+  :block/updated-at 1668345356130}
  {:block/name "b",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "book",
+  :block/created-at 1668345159820,
+  :block/updated-at 1668345159820}
  {:block/name "c",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -22,12 +22,12 @@
  {:block/name "card",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "contents",
-  :block/created-at 1667059778563,
-  :block/updated-at 1667059778563}
  {:block/name "developer communication",
   :block/created-at 1668337712624,
   :block/updated-at 1668340898283}
+ {:block/name "development style",
+  :block/created-at 1668343537713,
+  :block/updated-at 1668345106334}
  {:block/name "devstyle",
   :block/created-at 1668344002895,
   :block/updated-at 1668344002895}
@@ -37,15 +37,9 @@
  {:block/name "done",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
- {:block/name "favorites",
-  :block/created-at 1667059778563,
-  :block/updated-at 1667059778563}
  {:block/name "hiệu ứng thoái hóa",
   :block/created-at 1668341152044,
   :block/updated-at 1668344470193}
- {:block/name "how to communicate effectively as a developer",
-  :block/created-at 1668337038570,
-  :block/updated-at 1668337038570}
  {:block/name "ideas",
   :block/created-at 1668341400319,
   :block/updated-at 1668341400319}
@@ -61,12 +55,6 @@
  {:block/name "logseq",
   :block/created-at 1668339857876,
   :block/updated-at 1668344577808}
- {:block/name "lồng kính - nicholas carr",
-  :block/created-at 1667125466581,
-  :block/updated-at 1668344943753}
- {:block/name "minimalist software engineer",
-  :block/created-at 1668343537713,
-  :block/updated-at 1668344818430}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668081369773,
   :block/updated-at 1668341086225}
@@ -105,13 +93,13 @@
   :block/updated-at 1668341053723}
  {:block/name "thế giới và màn hình",
   :block/created-at 1668344376929,
-  :block/updated-at 1668344646923}
+  :block/updated-at 1668345573189}
  {:block/name "todo",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
  {:block/name "tự động hóa và chúng ta",
   :block/created-at 1668336258711,
-  :block/updated-at 1668344949959}
+  :block/updated-at 1668345159820}
  {:block/name "wait",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
