@@ -45,7 +45,7 @@
   :block/updated-at 1668348535178}
  {:block/name "hiệu ứng thoái hóa",
   :block/created-at 1668341152044,
-  :block/updated-at 1668344470193}
+  :block/updated-at 1668495811979}
  {:block/name "in-progress",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
@@ -55,6 +55,9 @@
  {:block/name "later",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
+ {:block/name "life style",
+  :block/created-at 1668373649936,
+  :block/updated-at 1668373649936}
  {:block/name "logseq",
   :block/created-at 1668339857876,
   :block/updated-at 1668346602668}
@@ -69,7 +72,10 @@
   :block/updated-at 1668371002000}
  {:block/name "nov 14th, 2022",
   :block/created-at 1668370856625,
-  :block/updated-at 1668370939030}
+  :block/updated-at 1668374048269}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668495314405,
+  :block/updated-at 1668513229512}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667303992668,
   :block/updated-at 1668341232162}
@@ -98,11 +104,11 @@
   :block/created-at 1667122828713,
   :block/updated-at 1668341053723}
  {:block/name "thought",
-  :block/created-at 1668370869232,
-  :block/updated-at 1668370869232}
+  :block/created-at 1668373991269,
+  :block/updated-at 1668373991269}
  {:block/name "thế giới và màn hình",
   :block/created-at 1668344376929,
-  :block/updated-at 1668345573189}
+  :block/updated-at 1668513280078}
  {:block/name "todo",
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
