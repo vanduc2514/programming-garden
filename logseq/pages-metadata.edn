@@ -87,7 +87,7 @@
   :block/updated-at 1668506751560}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668567945715,
-  :block/updated-at 1668567945715}
+  :block/updated-at 1668571505197}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667303992668,
   :block/updated-at 1668341232162}
@@ -121,6 +121,9 @@
  {:block/name "read",
   :block/created-at 1668570320890,
   :block/updated-at 1668570320890}
+ {:block/name "sql",
+  :block/created-at 1668571365461,
+  :block/updated-at 1668571365461}
  {:block/name "tech tips",
   :block/created-at 1668570320874,
   :block/updated-at 1668570320874}
