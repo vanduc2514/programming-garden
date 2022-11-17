@@ -1,0 +1,3 @@
+- ((63762247-39cc-40f0-a7f3-a3bcd9e9e900))
+	- một ứng dụng hoặc một trang web sử dụng một hệ thống khen thưởng giống trò chơi để thúc đẩy hoặc thao túng con người vào việc lặp đi lặp lại một số thao tác theo quy định. gamfication khai thác mặt tối của trạng thái dòng chảy. Tìm kiếm để duy trì những niềm vui và lợi ích của dùng chảy, con người có thể trở nên bị ám ảnh trong việc sử dụng phần mềm. Lấy một ví dụ nổi tiếng, máy tính đánh bạc được thiết kế một cách cẩn thận để thúc đẩy một hình thức gây nghiện của dòng chảy trong những người chơi.
+	-

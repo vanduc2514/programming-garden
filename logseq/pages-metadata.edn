@@ -26,11 +26,16 @@
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
  {:block/name "contents",
+<<<<<<< Updated upstream
   :block/created-at 1668348535178,
   :block/updated-at 1668348535178}
  {:block/name "db2",
   :block/created-at 1668572025047,
   :block/updated-at 1668572025047}
+=======
+  :block/created-at 1668685944752,
+  :block/updated-at 1668685944752}
+>>>>>>> Stashed changes
  {:block/name "developer communication",
   :block/created-at 1668337712624,
   :block/updated-at 1668371053219}
@@ -86,11 +91,22 @@
   :block/created-at 1668370856625,
   :block/updated-at 1668374048269}
  {:block/name "nov 15th, 2022",
+<<<<<<< Updated upstream
   :block/created-at 1668506751560,
   :block/updated-at 1668506751560}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668567945715,
   :block/updated-at 1668588384116}
+=======
+  :block/created-at 1668495314405,
+  :block/updated-at 1668528983598}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668562486518,
+  :block/updated-at 1668563283786}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668685112876,
+  :block/updated-at 1668685474411}
+>>>>>>> Stashed changes
  {:block/name "nov 1st, 2022",
   :block/created-at 1667303992668,
   :block/updated-at 1668341232162}
@@ -131,8 +147,16 @@
   :block/created-at 1668588384113,
   :block/updated-at 1668588384113}
  {:block/name "tech tips",
+<<<<<<< Updated upstream
   :block/created-at 1668570320874,
   :block/updated-at 1668570320874}
+=======
+  :block/created-at 1668519739609,
+  :block/updated-at 1668519739609}
+ {:block/name "term",
+  :block/created-at 1668563262139,
+  :block/updated-at 1668563262139}
+>>>>>>> Stashed changes
  {:block/name "thought",
   :block/created-at 1668373991269,
   :block/updated-at 1668373991269}
@@ -143,8 +167,13 @@
   :block/created-at 1667059778563,
   :block/updated-at 1667059778563}
  {:block/name "tự động hoá cho mọi người",
+<<<<<<< Updated upstream
   :block/created-at 1668570320889,
   :block/updated-at 1668570320889}
+=======
+  :block/created-at 1668525242500,
+  :block/updated-at 1668685555022}
+>>>>>>> Stashed changes
  {:block/name "tự động hóa và chúng ta",
   :block/created-at 1668336258711,
   :block/updated-at 1668345159820}
