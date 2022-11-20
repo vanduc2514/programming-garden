@@ -135,3 +135,8 @@ tags:: book
   hl-page:: 25
   hl-color:: yellow
   id:: 637714cf-4eb4-4525-af5d-622c3ee65110
+- The Assessment Test
+  ls-type:: annotation
+  hl-page:: 43
+  hl-color:: yellow
+  id:: 6378b96e-aba3-4b7d-8f04-72df3a91bcff
