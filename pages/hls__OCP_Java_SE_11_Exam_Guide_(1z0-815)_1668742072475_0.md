@@ -140,3 +140,74 @@ tags:: book
   hl-page:: 43
   hl-color:: yellow
   id:: 6378b96e-aba3-4b7d-8f04-72df3a91bcff
+- the compiler (javac), which converts .java files to.class files
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 637b9e11-3692-4ce5-a0ca-a6a2cfa8abb2
+- the launcher java, which creates the virtual machine and executes the program
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 637b9e25-55cd-4386-a14d-516e69a186d1
+- the archiver (jar) command, which can package files together
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 637b9f91-e589-46df-8e60-7839f66b4b01
+- the API documentation (javadoc) command for generating documentation
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 637b9fa5-a3ab-48b0-9e83-3590f8f1d1f3
+- The javac program generates instructions in a special format that the java command can run called bytecode. Then java launches the Java Virtual Machine (JVM) before running the code
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 637b9fd2-deeb-48ae-ba48-70392424c727
+- Object Oriented 
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba080-2ff7-4a8d-a959-911d7f75a51b
+- Encapsulation
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba08a-3991-4ef6-8c1f-c80fc65b09bd
+- Platform Independent 
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba0a5-132e-4d3c-b5f9-22aebcfe1de7
+- Robust 
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba0ec-3941-4f0b-bc33-ee60a78be442
+- Simple 
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba102-91c7-4167-a565-92a2ccbaa6ee
+- Secure 
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: red
+  id:: 637ba131-4a15-4fa2-9f96-30fc01393325
+- Multithreaded
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: red
+  id:: 637ba14f-33e8-4647-b823-63422044103d
+- Backward Compatibility 
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: red
+  id:: 637ba164-9596-4639-adc9-4fdec6f48786
+- An object is a runtime instance of a class in memory
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: green
+  id:: 637ba1a7-7683-4a1e-be74-de983fad47ae
+  hl-stamp:: 1669046714638
