@@ -211,3 +211,164 @@ tags:: book
   hl-color:: green
   id:: 637ba1a7-7683-4a1e-be74-de983fad47ae
   hl-stamp:: 1669046714638
+- Which of the following are true statements? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 63830b93-0210-4952-b7e1-3fc29b323bbe
+  hl-stamp:: 1669532655777
+- Which of the following are true? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 63830bf3-84fa-4db4-b6a9-9a96cb3e4c27
+- Which of the following are true if this command completes successfully? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 63830c11-de88-439b-ac6a-23b5a8ceb7f9
+- Given the following classes, which of the following can independently replace INSERT IMPORTS HERE to make the code compile? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: green
+  id:: 63830c69-9674-498f-9f90-a5050c8cf3e5
+- Which are included in the JDK? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: green
+  id:: 63830c9f-47b9-4ad7-8557-65ed80f1ba50
+- Given the following classes, what is the maximum number of imports that can be removed and have the code still compile?
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: green
+  id:: 63830cea-787f-4aac-b5d2-54c1241acbb1
+- Given the following classes, which of the following snippets can independently be inserted in place of INSERT IMPORTS HERE and have the code compile? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: green
+  id:: 63830d1e-b146-4e20-b450-2509e67b5315
+- Given the following command, which of the following classes would be included for compilation? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: green
+  id:: 63830e5c-c9d7-4836-ae05-c8d10d981be6
+- Given the following class, which of the following calls print out Blue Jay? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: green
+  id:: 63830e84-a199-46c7-a973-eed2ad4f3151
+- Which of the following are legal entry point methods that can be run from the command line? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: green
+  id:: 63830f43-c0f2-4e9d-bcf0-150a8f67dfb5
+- Which of the following are true statements about Java? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: green
+  id:: 63830f91-ce47-423b-a8bf-9b66f705588e
+- Which options are valid on the javac command without considering module options?(Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: green
+  id:: 63830fab-d64a-4637-b081-deaaa0987da6
+- Which options are valid on the java command without considering module options?(Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: green
+  id:: 63830fd9-217f-4e66-b647-ad25515fbf86
+- Which options are valid on the jar command without considering module options?(Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: green
+  id:: 63830fe4-b481-4496-90f2-095b3bfdeaa4
+- What does the following code output when run as java Duck Duck Goose?
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: green
+  id:: 6383102e-332f-43d7-a287-a53d4df1cb2d
+- Suppose we have the following class in the file /my/directory/named/A/Bird.java. Which of the answer options replaces INSERT CODE HERE when added independently if we compile from /my/directory? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: green
+  id:: 63831063-b7d9-4d09-8503-621257b6a1cf
+- Which of the following are true? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: green
+  id:: 638310a1-6776-43b1-b0a2-64bf30959441
+- Which answer options represent the order in which the following statements can be assembled into a program that will compile successfully? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: green
+  id:: 638310c9-e958-4ff6-84e0-a68adc4ba90e
+- Which are not available for download from Oracle for Java 11? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: green
+  id:: 6383110a-3b9d-41d0-8849-5f51fb1af806
+- Which are valid ways to specify the classpath when compiling? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: green
+  id:: 6383111b-faca-47c5-acde-89184b265416
+- Welcome to Java
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 638311e3-7b38-47a8-a761-fe115eefe9c1
+- Appendix ■ Answers to Review Questions
+  ls-type:: annotation
+  hl-page:: 548
+  hl-color:: purple
+  id:: 63831255-7b6b-4c9a-b74b-75404c79c957
+- Java Building Blocks
+  ls-type:: annotation
+  hl-page:: 91
+  hl-color:: yellow
+  id:: 63833928-e6d0-45c5-ae7a-c872f6c3ea7e
+- Which of the following are valid Java identifiers? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 125
+  hl-color:: green
+  id:: 63833960-4c3a-48af-b1f0-0880c4d8e00f
+- What lines are printed by the following program? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 125
+  hl-color:: green
+  id:: 638339a8-ec60-45a4-9124-c4dfe7a1ca45
+- Which of the following code snippets about var compile without issue when used in a method? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 125
+  hl-color:: green
+  id:: 638339e2-ab2f-4a2d-96b1-d3bdb0a291c2
+- Which of the following statements about the code snippet are true? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 126
+  hl-color:: green
+  id:: 63833a28-29e2-4539-8493-e83a906a34c8
+- Which statements about the following class are true? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 126
+  hl-color:: green
+  id:: 63833b62-c412-4ef9-ab12-c09d537f04d5
+- Which of the following are correct? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 127
+  hl-color:: green
+  id:: 63833bb8-7e77-4160-903d-d35898904ec8
+- Which of the following are correct? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 127
+  hl-color:: green
+  id:: 63833c35-0aed-4209-b700-f4bc56b32492
+- Which of the following are true? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 127
+  hl-color:: green
+  id:: 63833c51-4df6-4ffc-ba7a-d7a56f767ce1
+- Which of the following statements about garbage collection are correct? (Choose all that apply.)
+  ls-type:: annotation
+  hl-page:: 127
+  hl-color:: green
+  id:: 63833d73-5ae9-40b8-94d2-6e13eb1463d3
