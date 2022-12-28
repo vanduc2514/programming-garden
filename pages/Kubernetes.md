@@ -23,4 +23,13 @@
 	  kubectl config view
 	  ```
 - Expose Kubernetes Pod from its cluster by creating a [[Kubernetes Service]]
--
+- The Kubernetes Network Policy API provides a standard way for users to define network policy for controlling network traffic
+	- From the point of view of a Kubernetes pod, **ingress** is incoming traffic to the pod, and **egress** is outgoing traffic from the pod. In Kubernetes network policy, you create ingress and egress “allow” rules independently (egress, ingress, or both)
+- TODO To manage external access to the services in a cluster, or to provide load balancing, SSL, use [[Kubernetes Ingress]]. This is the first part when a request hit a Pod in a Kubernetes Cluster. This Component is similar to a routing table to route request to a specific service
+	- ![ingress-diagram](https://d33wubrfki0l68.cloudfront.net/91ace4ec5dd0260386e71960638243cf902f8206/c3c52/docs/images/ingress.svg)
+	-
+	- ![ingress-fanout-diagram](https://d33wubrfki0l68.cloudfront.net/36c8934ba20b97859854610063337d2072ea291a/28e8b/docs/images/ingressfanout.svg)
+	-
+- Hide credential, username, password, sensitive data using [[Kubernetes Secrets]]
+	-
+	-
